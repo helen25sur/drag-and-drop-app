@@ -1,7 +1,7 @@
 {
   "name": "drag-and-drop-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This app is a simple drag&drop project",
   "main": "./src/app.ts",
   "scripts": {
     "build": "tsc --watch",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/helen25sur/drag-and-drop-app.git"
   },
-  "author": "",
+  "author": "Olena Surilova",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/helen25sur/drag-and-drop-app/issues"
